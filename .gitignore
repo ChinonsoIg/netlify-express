@@ -37,3 +37,6 @@ jspm_packages
 .node_repl_history
 
 functions
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
